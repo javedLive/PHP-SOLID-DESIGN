@@ -1,0 +1,9 @@
+<?php
+/* 	
+Dependency inversion principle
+
+
+*/
+
+
+?>
